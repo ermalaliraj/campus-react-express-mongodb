@@ -1,4 +1,4 @@
-# BackEnd in NodeJS/Express MongoDB – User Authentication & Authorization with JWT & Mongoose
+# BackEnd in NodeJS/Express + MongoDB + JWT
 
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
@@ -37,3 +37,4 @@ Use pre-mad calls present in [REST/api.http](./REST/api.http)
 - [Code node-js-jwt-auth-mongodb](https://github.com/bezkoder/node-js-jwt-auth-mongodb)
 - [Run NodeJS in debug](https://yonatankra.com/how-to-remote-debug-and-profile-node-js-apps/)
 - [API file from IntelliJ](https://www.jetbrains.com/help/idea/exploring-http-syntax.html#enable-disable-saving-cookies)
+- [Back to Root](../)
