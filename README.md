@@ -12,14 +12,14 @@ You may need to implement Refresh Token:
 > Explained here: [Node.js JWT Refresh Token with MongoDB example](https://www.bezkoder.com/jwt-refresh-token-node-js-mongodb/)
 
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
 
 ### Run
 ```
-node server.js
+npm start
 ```
 
 ### Debug
@@ -33,7 +33,7 @@ chrome://inspect/#devices
 Use pre-mad calls present in [REST/api.http](./REST/api.http)
 
 ### Links
-[Blog node-js-mongodb-auth-jwt](https://www.bezkoder.com/node-js-mongodb-auth-jwt/)
-[Code node-js-jwt-auth-mongodb](https://github.com/bezkoder/node-js-jwt-auth-mongodb)
-[Run NodeJS in debug](https://yonatankra.com/how-to-remote-debug-and-profile-node-js-apps/)
-[API file from IntelliJ](https://www.jetbrains.com/help/idea/exploring-http-syntax.html#enable-disable-saving-cookies)
+- [Blog node-js-mongodb-auth-jwt](https://www.bezkoder.com/node-js-mongodb-auth-jwt/)
+- [Code node-js-jwt-auth-mongodb](https://github.com/bezkoder/node-js-jwt-auth-mongodb)
+- [Run NodeJS in debug](https://yonatankra.com/how-to-remote-debug-and-profile-node-js-apps/)
+- [API file from IntelliJ](https://www.jetbrains.com/help/idea/exploring-http-syntax.html#enable-disable-saving-cookies)
