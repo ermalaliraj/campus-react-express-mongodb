@@ -3,11 +3,11 @@
 ## User Registration, User Login and Authorization process.
 The diagram shows flow of how we implement User Registration, User Login and Authorization process.
 
-![jwt-token-authentication-node-js-example-flow](doc/jwt-token-authentication-node-js-example-flow.png)
+![jwt-token-authentication-node-js-example-flow](../doc/jwt-token-authentication-node-js-example-flow.png)
 
 You may need to implement Refresh Token:
 
-![jwt-refresh-token-node-js-example-flow](doc/jwt-refresh-token-node-js-example-flow.png)
+![jwt-refresh-token-node-js-example-flow](../doc/jwt-refresh-token-node-js-example-flow.png)
 
 > Explained here: [Node.js JWT Refresh Token with MongoDB example](https://www.bezkoder.com/jwt-refresh-token-node-js-mongodb/)
 
